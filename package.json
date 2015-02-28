@@ -28,7 +28,7 @@
   "author": "Thorsten Lorenz <thlorenz@gmx.de> (thlorenz.com)",
   "license": "MIT",
   "dependencies": {
-    "redeyed": "~0.4.0",
+    "redeyed": "git@github.com:trabus/redeyed.git",
     "ansicolors": "~0.2.1"
   },
   "devDependencies": {
